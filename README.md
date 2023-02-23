@@ -14,3 +14,4 @@
 | 2022-02-21 | 코딩앙마 자바스크립트 중급 | Array1 |
 | 2022-02-22 | 코딩앙마 자바스크립트 중급 | Array2 |
 | 2022-02-23 | 코딩앙마 자바스크립트 중급 | Destructing Assignment |
+| 2022-02-23 | 코딩앙마 자바스크립트 중급 | Rest Parameters, Spread Syntax |
