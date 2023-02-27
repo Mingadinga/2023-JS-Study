@@ -17,3 +17,4 @@
 | 2022-02-24 | 코딩앙마 자바스크립트 중급 | Rest Parameters, Spread Syntax |
 | 2022-02-25 | 코딩앙마 자바스크립트 중급 | Closure |
 | 2022-02-26 | 코딩앙마 자바스크립트 중급 | Time, Call, Apply, Bind |
+| 2022-02-27 | 코딩앙마 자바스크립트 중급 | Prototype |
